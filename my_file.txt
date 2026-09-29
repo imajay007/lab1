@@ -1,6 +1,2 @@
 "This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
+Let's get into quantitative finance
